@@ -29,5 +29,25 @@ mon cursus actuel et les exigences des universités françaises ; c'est pourquoi
 ## 📝 Résumés de Cours
 
 ### 1. Bases de la Logique
-*Espaço reservado para o seu primeiro resumo.*
+La logique mathématique est l'étude du raisonnement qui utilise les propositions, les tables de vérité et les connecteurs logiques pour déterminer la validité des arguments et des énoncés. Ses fondements reposent sur trois principes : l'identité (une proposition est elle-même), la non-contradiction (une proposition n'est pas simultanément vraie et fausse) et le tiers exclu (une proposition est soit vraie, soit fausse).
 
+Fondements :
+
+Propositions : Énoncés déclaratifs qui ne peuvent être classés que comme vrais (V) ou faux (F).
+
+Valeurs logiques : La logique classique est bivalente, c'est-à-dire que chaque proposition admet une et une seule valeur : Vrai ou Faux.
+
+Connecteurs logiques : Opérateurs qui relient des propositions simples pour former des composés, tels que :
+
+Négation (ou ~) : Inverse la valeur (non P).
+
+Conjonction (^) : Vrai seulement si les deux propositions sont vraies (P et Q).
+
+Disjonction (V) : Faux seulement si les deux propositions sont fausses (P ou Q).
+
+Conditionnel ( ) : Faux seulement si la première proposition est V et la seconde est F (Si P, alors Q).
+
+Biconditionnel ( ): Vrai si les deux sont égaux (P si et seulement si Q).
+
+
+EXERCICES
