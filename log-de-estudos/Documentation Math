@@ -25,6 +25,9 @@ mon cursus actuel et les exigences des universités françaises ; c'est pourquoi
 | **IV.  | Mathématiques Discrètes**  -  Théorie des Graphes, Dénombrement (Combinatória). | 🟡 À venir |
 
 ---
+Cours : Logique et raisonnement pour l’informatique – par l’Université de Londres, plateforme
+Coursera.
+
 
 ## 📝 Résumés de Cours
 
@@ -52,4 +55,19 @@ Conditionnel ( ) : Faux seulement si la première proposition est V et la secon
 Biconditionnel ( ): Vrai si les deux sont égaux (P si et seulement si Q).
 
 
-EXERCICES
+Les lois de Morgan : Les règles logiques pour nier les propositions composées (« et » / « ou »). 
+La règle principale est la suivante : nier tout et changer le connecteur.
+
+Logique du premier ordre : système formel utilisé pour analyser la structure des énoncés, étendant
+la logique propositionnelle par l’utilisation de variables, de prédicats et de quantificateurs pour 
+décrire les relations et les propriétés des objets d’un domaine. 
+
+Boolean Algebra: L'algèbre booléenne est une branche des mathématiques qui traite des variables binaires,
+c'est-à-dire celles qui ne prennent que deux valeurs possibles, généralement notées 0 et 1
+(ou vrai et faux). Elle se concentre sur les variables binaires et les opérations logiques telles 
+que ET, OU et NON.
+
+
+
+
+
