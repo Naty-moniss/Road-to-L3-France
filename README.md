@@ -11,7 +11,7 @@
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
 | **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (A1 -> A2) |
-| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Logaritmo - Álgebra Linear |
+| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/35) | Logaritmo - Álgebra Linear |
 | **🐍  C++** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 
 ---
@@ -31,8 +31,8 @@
 > **Última Atualização:** 07 de Março de 2026
 
 ### 📅 Março de 2026
-- [ ] Focar mais na fala em francês
-- [ ] Iniciar estudos em algebra linear 
+- [x] Focar mais na fala em francês
+- [x] Iniciar estudos em algebra linear 
 - [ ] Finalizar aulas básicas de francês
 - [ ] Começar a escrever em inglês
 
