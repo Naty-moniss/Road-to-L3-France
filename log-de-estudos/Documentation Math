@@ -31,7 +31,7 @@ Cours : Logique et raisonnement pour l’informatique – par l’Université d
 Coursera.
 
 
-## 📝 Résumés de Cours
+## 📝 Résumés de Cours 1 
 
 ### 1. Bases de la Logique
 La logique mathématique est l'étude du raisonnement qui utilise les propositions, les tables de
@@ -77,6 +77,30 @@ et 1 (ou vrai et faux). Elle se concentre sur les variables binaires et les opé
 telles que ET, OU et NON.
 
 
+## Commentaires ##
+
+J'ai trouvé ce sujet moins difficile qu'il n'y paraissait au premier abord. J'ai eu un peu de mal 
+avec la terminologie au début, mais des exercices intensifs m'ont permis de la maîtriser
+rapidement.
+
+---
+
+## 📝 Résumés de Cours 2
+
+### 1 Ensembles, applications, relations
+
+
+Les opérations de base permettent de combiner ou de manipuler des ensembles pour en former de 
+nouveaux.
+
+- União:  Agrupa todos os elementos de A e de B, sem repetições. 
+
+- Intersection: Contient uniquement les éléments qui appartiennent simultanément
+ à A et à B. Si ∩ ...
+
+- Différence: Éléments appartenant à A mais n'appartenant pas à B.
+
+- Complémentaires : Éléments de l'ensemble universel (U) qui n'appartiennent pas à l'ensemble A.
 
 
 
