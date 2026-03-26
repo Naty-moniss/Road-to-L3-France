@@ -85,9 +85,15 @@ rapidement.
 
 ---
 
+Cours: Contenu théorique du portail : Bibm@th.net
+
+
 ## 📝 Résumés de Cours 2
 
 ### 1 Ensembles, applications, relations
+
+* La théorie des ensembles et ses applications est la branche des mathématiques qui étudie les 
+collections d'objets, appelées ensembles, et les relations et fonctions (applications) entre eux.
 
 
 Les opérations de base permettent de combiner ou de manipuler des ensembles pour en former de 
@@ -101,6 +107,17 @@ nouveaux.
 - Différence: Éléments appartenant à A mais n'appartenant pas à B.
 
 - Complémentaires : Éléments de l'ensemble universel (U) qui n'appartiennent pas à l'ensemble A.
+
+
+-  Applications (Fonctions)
+
+Relation : Sous-ensemble du produit cartésien.
+
+Fonction/Application : Relation spécifique où chaque élément du domaine est associé à un seul 
+élément du codomaine.
+
+Ensemble d'applications : Ensemble formé par toutes les applications possibles d'un ensemble 
+vers un autre.
 
 
 
