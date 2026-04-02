@@ -23,7 +23,7 @@
 **Foco:** Finalizar primeiro bloco de aulas básicas de Francês, finalizar projetos de raciocínio.
 
 - [x] **01/04 (Dia B):** Trabalho 12x36 + Montar frases e treinar conjugação
-- [ ] **02/04 (Dia A):** Trilha da faculdade - Treino de escuta (desenho francês)
+- [x] **02/04 (Dia A):** Trilha da faculdade - Treino de escuta (desenho francês)
 - [ ] **03/04 (Dia B):** Trabalho 12x36 + Treinar leitura com poemas / Traduzir músicas e frases
 - [ ] **04/04 (Dia A):** Trilha da faculdade - Aula de francês dupla + Treinar shadowing
 - [ ] **05/04 (Dia B):** Trabalho 12x36 + Montar frases e treinar conjugação
