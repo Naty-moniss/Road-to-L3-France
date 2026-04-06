@@ -27,5 +27,5 @@
 - [x] **03/04 (Dia B):** Trabalho 12x36 + Treinar leitura com poemas / Traduzir músicas e frases
 - [x] **04/04 (Dia A):** Trilha da faculdade - Aula de francês dupla + Treinar shadowing
 - [x] **05/04 (Dia B):** Trabalho 12x36 + Montar frases e treinar conjugação
-- [ ] **06/04 (DIA A):** Trilha da faculdade + Aula de francês dupla + Treinar shadowing
+- [x] **06/04 (DIA A):** Trilha da faculdade + Aula de francês dupla + Treinar shadowing
 - [ ] **07/04 (DIA B):** Trabalho 12x36 + Treino de escuta (desenho francês)
