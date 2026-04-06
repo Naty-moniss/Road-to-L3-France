@@ -11,7 +11,8 @@
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
 | **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/25) | Básico (A1 -> A2) |
-| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/35) | L |
+| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/50) | conectivos lógicos e quantificadores ($\forall, \exists$).
+ |
 | **🐍  C++** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 
 ---
