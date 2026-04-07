@@ -28,4 +28,17 @@
 - [x] **04/04 (Dia A):** Trilha da faculdade - Aula de francês dupla + Treinar shadowing
 - [x] **05/04 (Dia B):** Trabalho 12x36 + Montar frases e treinar conjugação
 - [x] **06/04 (DIA A):** Trilha da faculdade + Aula de francês dupla + Treinar shadowing
-- [ ] **07/04 (DIA B):** Trabalho 12x36 + Treino de escuta (desenho francês)
+- [x] **07/04 (DIA B):** Trabalho 12x36 + Treino de escuta (desenho francês)
+
+
+
+## 📅 Semaine 02 (08/04 - 015/04)
+**Foco:** Finalizar primeiro bloco de aulas básicas de Francês, finalizar trilha da faculdade
+
+- [ ] **08/04 (Dia A):** Trilha da faculdade + Aula de francês - Shadowing (desenho)
+- [ ] **09/04 (Dia B):** Trabalho 12x36 - treinar conjugação e escrever frases
+- [ ] **10/04 (Dia A):** Trilha da faculdade - Aula dupla de francês
+- [ ] **11/04 (Dia B):** Trabalho 12x36 - Traduzir frases e músicas
+- [ ] **12/04 (Dia B):** Trabalho 12x36 - Aula de francês
+- [ ] **13/04 (DIA B):** Trabalho 12x36 - Aula de francês 
+- [ ] **14/04 (DIA A):** Trilha da faculdade - Treinar escuta com desenho 
