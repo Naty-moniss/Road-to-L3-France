@@ -35,7 +35,7 @@
 ## 📅 Semaine 02 (08/04 - 015/04)
 **Foco:** Finalizar primeiro bloco de aulas básicas de Francês, finalizar trilha da faculdade
 
-- [ ] **08/04 (Dia A):** Trilha da faculdade + Aula de francês - Shadowing (desenho)
+- [x] **08/04 (Dia A):** Trilha da faculdade + Aula de francês - Shadowing (desenho)
 - [ ] **09/04 (Dia B):** Trabalho 12x36 - treinar conjugação e escrever frases
 - [ ] **10/04 (Dia A):** Trilha da faculdade - Aula dupla de francês
 - [ ] **11/04 (Dia B):** Trabalho 12x36 - Traduzir frases e músicas
