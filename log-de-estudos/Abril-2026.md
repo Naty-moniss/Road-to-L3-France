@@ -39,6 +39,6 @@
 - [x] **09/04 (Dia B):** Trabalho 12x36 - treinar conjugação e escrever frases
 - [x] **10/04 (Dia A):** Trilha da faculdade - Aula dupla de francês
 - [x] **11/04 (Dia B):** Trabalho 12x36 - Traduzir frases e músicas
-- [ ] **12/04 (Dia B):** Trabalho 12x36 - Aula de francês
-- [ ] **13/04 (DIA B):** Trabalho 12x36 - Aula de francês 
+- [x] **12/04 (Dia B):** Trabalho 12x36 - Aula de francês
+- [ ] **13/04 (DIA B):** Trabalho 12x36 - Treinar escuta com desenho
 - [ ] **14/04 (DIA A):** Trilha da faculdade - Treinar escuta com desenho 
