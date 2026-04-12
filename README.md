@@ -34,7 +34,7 @@
 ### 📅 Abril de 2026
 - [ ] Focar mais na fala em francês
 - [ ] Finalizar projetos de Algebra linear
-- [ ] Finalizar aulas básicas de francês (falta pouco)
+- [x] Finalizar aulas básicas de francês (falta pouco)
 - [ ] Iniciar estudos em linguagem C
 
 ---
