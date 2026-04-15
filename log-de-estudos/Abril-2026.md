@@ -47,7 +47,7 @@
 ## 📅 Semaine 03 (15/04 - 21/04)
 **Foco:** Iniciar aulas intermediárias dr francês, finalizar projetos de matemática
 
-- [ ] **15/04 (Dia B):** Trabalho 12x36 - Traduzir frases de músicas 
+- [x] **15/04 (Dia B):** Trabalho 12x36 - Traduzir frases de músicas 
 - [ ] **16/04 (Dia A):** Aulas de francês + Trabalhar conteúdos de matemática
 - [ ] **17/04 (Dia B):** Trabalho 12x36 - Treinar escrita (escrever minha apresentação)
 - [ ] **18/04 (Dia A):** Aula de francês - Trabalhar projetos de matemática (que tenham haver com as trilhas de aprendizagem)
