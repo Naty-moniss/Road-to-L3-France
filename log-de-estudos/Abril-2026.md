@@ -48,7 +48,7 @@
 **Foco:** Iniciar aulas intermediárias dr francês, finalizar projetos de matemática
 
 - [x] **15/04 (Dia B):** Trabalho 12x36 - Traduzir frases de músicas 
-- [ ] **16/04 (Dia A):** Aulas de francês + Trabalhar conteúdos de matemática
+- [x] **16/04 (Dia A):** Aulas de francês + Trabalhar conteúdos de matemática
 - [ ] **17/04 (Dia B):** Trabalho 12x36 - Treinar escrita (escrever minha apresentação)
 - [ ] **18/04 (Dia A):** Aula de francês - Trabalhar projetos de matemática (que tenham haver com as trilhas de aprendizagem)
 - [ ] **19/04 (Dia B):** Trabalho 12x36 - Treinar escuta com desenho 
