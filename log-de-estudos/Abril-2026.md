@@ -52,6 +52,6 @@
 - [x] **17/04 (Dia B):** Trabalho 12x36 - Treinar escrita (escrever minha apresentação)
 - [ ] **18/04 (Dia A):** Aula de francês - Trabalhar projetos de matemática (que tenham haver com as trilhas de aprendizagem)
 - [x] **19/04 (Dia B):** Trabalho 12x36 - Treinar escuta com desenho 
-- [ ] **20/04 (DIA A):** Trabalhar projetos de matemágica - Treinar fala (ler apresentação)
+- [x] **20/04 (DIA A):** Trabalhar projetos de matemágica - Treinar fala (ler apresentação)
 - [ ] **21/04 (DIA B):** Trabalho 12x36 - Treinar escrita (refirnar minha apresentação)
 
