@@ -53,5 +53,16 @@
 - [ ] **18/04 (Dia A):** Aula de francês - Trabalhar projetos de matemática (que tenham haver com as trilhas de aprendizagem)
 - [x] **19/04 (Dia B):** Trabalho 12x36 - Treinar escuta com desenho 
 - [x] **20/04 (DIA A):** Trabalhar projetos de matemágica - Treinar fala (ler apresentação)
-- [ ] **21/04 (DIA B):** Trabalho 12x36 - Treinar escrita (refirnar minha apresentação)
+- [x] **21/04 (DIA B):** Trabalho 12x36 - Treinar escrita (refirnar minha apresentação)
 
+
+## 📅 Semaine 04 (23/04 - 02/05)
+**Foco** Dia 24,25,26 passarei por um procedimento cirúrgico não poderei estudar.
+
+- [ ] **23/04 (Dia B):** Trabalho 12x36 - Treinar escrita 
+- [ ] **27/04 (Dia B):** Trabalho 12x36 - Treinar leitura (Le pettit Prince)
+- [ ] **28/04 (Dia A):** Aula de francês - Assistir desenho em francês
+- [ ] **29/04 (Dia B):** Trabalho 12x36 - Traduzir frases de filmes para francês 
+- [ ] **30/04 (Dia A):** Aula de francês - treinar escrita (aumentar minha apresentação)
+- [ ] **01/05 (DIA B):** Trabalh0 12x36 -  Treinar leitura (Le pettit prince)
+- [ ] **02/05 (DIA A):** Trilha da faculdade - Assistir desenho em francês
