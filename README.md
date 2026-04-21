@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=200&section=header&text=Road%20to%20The%20L2%20France%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=200&section=header&text=Road%20to%20The%20L3%20France%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002395&center=true&vCenter=true&width=435&lines=Objectif:+Licence+2+Licence+Informatique;Study+Routine:+12x36+Shift;French+Level:+Target+B2/C1;STEM+for+Computer+Science)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002395&center=true&vCenter=true&width=435&lines=Objectif:+Licence+3+Licence+Informatique;Study+Routine:+12x36+Shift;French+Level:+Target+B2/C1;STEM+for+Computer+Science)](https://git.io/typing-svg)
 </div>
 
 ---
