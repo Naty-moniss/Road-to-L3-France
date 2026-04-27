@@ -60,7 +60,7 @@
 **Foco** Dia 24,25,26 passarei por um procedimento cirúrgico não poderei estudar.
 
 - [ ] **23/04 (Dia B):** Trabalho 12x36 - Treinar escrita 
-- [ ] **27/04 (Dia B):** Trabalho 12x36 - Treinar leitura (Le pettit Prince)
+- [x] **27/04 (Dia B):** Trabalho 12x36 - Treinar leitura (Le pettit Prince)
 - [ ] **28/04 (Dia A):** Aula de francês - Assistir desenho em francês
 - [ ] **29/04 (Dia B):** Trabalho 12x36 - Traduzir frases de filmes para francês 
 - [ ] **30/04 (Dia A):** Aula de francês - treinar escrita (aumentar minha apresentação)
