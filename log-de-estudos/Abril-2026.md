@@ -61,7 +61,7 @@
 
 - [ ] **23/04 (Dia B):** Trabalho 12x36 - Treinar escrita 
 - [x] **27/04 (Dia B):** Trabalho 12x36 - Treinar leitura (Le pettit Prince)
-- [ ] **28/04 (Dia A):** Aula de francês - Assistir desenho em francês
+- [x] **28/04 (Dia A):** Aula de francês - Assistir desenho em francês
 - [ ] **29/04 (Dia B):** Trabalho 12x36 - Traduzir frases de filmes para francês 
 - [ ] **30/04 (Dia A):** Aula de francês - treinar escrita (aumentar minha apresentação)
 - [ ] **01/05 (DIA B):** Trabalh0 12x36 -  Treinar leitura (Le pettit prince)
