@@ -10,8 +10,8 @@
 
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
-| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/25) | Básico (A1 -> A2) |
-| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/65) | Cálculo e análise real |
+| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/45) | Básico (A2 -> B1) |
+| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/100) | Cálculo e análise real |
 | **🐍  C++** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 
 ---
@@ -32,10 +32,10 @@
 
 ### 📅 Abril de 2026
 
-- [ ] Focar mais na fala em francês
+- [x] Focar mais na fala em francês
 - [x] Finalizar projetos de Algebra linear
 - [x] Finalizar aulas básicas de francês (falta pouco)
-- [ ] Iniciar estudos em linguagem C
+- [x] Iniciar estudos em linguagem C
 
 ---
 
