@@ -65,4 +65,4 @@
 - [x] **29/04 (Dia B):** Trabalho 12x36 - Traduzir frases de filmes para francês 
 - [x] **30/04 (Dia A):** Aula de francês - treinar escrita (aumentar minha apresentação)
 - [x] **01/05 (DIA B):** Trabalh0 12x36 -  Treinar leitura (Le pettit prince)
-- [ ] **02/05 (DIA A):** Trilha da faculdade - Assistir desenho em francês
+- [x] **02/05 (DIA A):** Trilha da faculdade - Assistir desenho em francês
