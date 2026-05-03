@@ -66,3 +66,12 @@
 - [x] **30/04 (Dia A):** Aula de francês - treinar escrita (aumentar minha apresentação)
 - [x] **01/05 (DIA B):** Trabalh0 12x36 -  Treinar leitura (Le pettit prince)
 - [x] **02/05 (DIA A):** Trilha da faculdade - Assistir desenho em francês
+
+
+## 📈 Reflexão Mensal / Réflexion du Mois
+
+*Abril foi um mês de ótimo aproveitamento, sinto que estou cada vez melhor no francês e consegui fechar em tempo hábil meus objetivos do mês. Em alguns momentos me senti desanimada porque as vezes parece que as coisas não vão dar certo, acho que é uma forma de me autosabotar talvez, mas eu consegui passar por isso e vou continuar insistindo sempre.*
+
+French Version:
+
+*Avril a été un mois très productif ; j’ai l’impression de progresser de plus en plus en français et j’ai réussi à atteindre mes objectifs mensuels dans les délais. Il m’est arrivé d’être découragée, car j’avais parfois l’impression que rien n’allait fonctionner ; je pense que c’est une forme d’autosabotage, peut-être, mais j’ai réussi à surmonter ces moments et je vais continuer à essayer.*
