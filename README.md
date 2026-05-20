@@ -35,7 +35,7 @@
 - [ ] Focar mais na fala em francês
 - [ ] Continuar os estudos em linguage C
 - [ ] Trabalhar nas aulas de francês intermediário
-- [ ] Finalizar projeto de extensão
+- [x] Finalizar projeto de extensão
 
 ---
 
