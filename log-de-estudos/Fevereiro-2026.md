@@ -11,13 +11,13 @@
 ## 📅 Semaine 06 (16/02 - 22/02)
 **Foco:** Matemática Básica & Iniciar finalizar primeiro bloco de aulas básicas do Francês.
 
-- [ ] **23/02 (Dia A):** Aula de francês - Treinar fala com apresentações sobre mim
-- [ ] **24/02 (Dia B):** Trabalho 12x36 + Treino de ouvido com rádio francesa
-- [ ] **25/02 (Dia A):** Aula de francês - Estudar vocabulário exercícios de gramática
-- [ ] **26/02 (Dia B):** Trabalho 12x36 + leitura em francês
-- [ ] **27/02 (Dia A):** Aula de francês - Treinar vocabulário e fala
-- [ ] **28/02 (DIA B):** Trabalho 12x36 - Estudar vocabulário com música
-- [ ] **01/03 (DIA A):** Organizar próximo mês 
+- [x] **23/02 (Dia A):** Aula de francês - Treinar fala com apresentações sobre mim
+- [x] **24/02 (Dia B):** Trabalho 12x36 + Treino de ouvido com rádio francesa
+- [x] **25/02 (Dia A):** Aula de francês - Estudar vocabulário exercícios de gramática
+- [x] **26/02 (Dia B):** Trabalho 12x36 + leitura em francês
+- [x] **27/02 (Dia A):** Aula de francês - Treinar vocabulário e fala
+- [x] **28/02 (DIA B):** Trabalho 12x36 - Estudar vocabulário com música
+- [x] **01/03 (DIA A):** Organizar próximo mês 
 
 ---
 
