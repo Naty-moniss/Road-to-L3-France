@@ -6,7 +6,7 @@
 
 **🇫🇷 FR:** Ce mois-ci marque les quatre mois que j'ai commencé à étudier le français. J'ai atteint le niveau A2, ce qui est une belle réussite vu que je suis partie de zéro. J'ai encore du chemin à parcourir, mais je reste concentrée sur mes objectifs. Je souhaite commencer des projets en C et pouvoir lire un livre entier en français ; j'ai même déjà choisi lequel : Le Petit Prince.
 
-**🇧🇷 PT:** Esse mês marca 4 meses que estou estudando francês, estou firme no nível A2, o que é uma vitória se eu pensar que saí do absoluto 0. Ainda tenho uma longa estrada pela frente mas estou firme nos meus objetivos. Quero iniciar alguns projets usando C e também quero conseguir ler um livro completo em francês, já até escolhi qual: O pequeno príncipe.
+**🇧🇷 PT:** Este mês marca quatro meses desde que comecei a estudar francês. Alcancei o nível A2, o que é uma grande conquista considerando que comecei do zero. Ainda tenho um longo caminho a percorrer, mas continuo focado nos meus objetivos. Quero começar alguns projetos de nível C e ser capaz de ler um livro inteiro em francês; já até já escolhi qual: O Pequeno Príncipe.
 ---
 
 
