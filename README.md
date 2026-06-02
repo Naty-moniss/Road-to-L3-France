@@ -12,7 +12,7 @@
 | :--- | :---: | :--- |
 | **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/45) | Básico (A2 -> B1) |
 | **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/100) | Cours terminés |
-| ** C** | ![Progress](https://geps.dev/progress/15) | Linguagem C |
+| ** C** | ![Progress](https://geps.dev/progress/35) | Linguagem C |
 
 ---
 
@@ -28,14 +28,14 @@
 
 ## 📖 Diário de Bordo / Journal de Bord
 
-> **Última Atualização:** 11 de Maio de 2026
+> **Última Atualização:** 02  Juin  2026
 
-### 📅 Maio 2026
+### 📅 Juin 2026
 
-- [ ] Focar mais na fala em francês
-- [ ] Continuar os estudos em linguage C
-- [ ] Trabalhar nas aulas de francês intermediário
-- [x] Finalizar projeto de extensão
+- [ ] Concentrez-vous davantage sur mon expression orale en français.
+- [ ] Démarrer des projets en C
+- [ ] Travail dans des classes de français de niveau intermédiaire
+- [ ] Terminer le cours CS50 de Harvard
 
 ---
 
