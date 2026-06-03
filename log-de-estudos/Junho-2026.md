@@ -17,7 +17,7 @@
 
 - [ ] **01/06 (Dia A):** Treinar fala em francês (Gravar vídeo!) - Vocabulário
 - [x] **02/06 (Dia B):** Trabalho 12x36 + Aula de francês - Vocabulário
-- [ ] **03/06 (Dia A):** Treinar fala em francês (apresentação pessoal)
+- [x] **03/06 (Dia A):** Treinar fala em francês (apresentação pessoal)
 - [ ] **04/06 (Dia B):** Trabalho 12x36 + Aula de francês
 - [ ] **05/06 (Dia A):** Trabalho 12x36 (hora extra) + Aula de francês - Vocabulário
 - [ ] **06/06 (DIA B):** Trabalhp 12x36 + Consumir conteúdo em francês (treinar escuta)
