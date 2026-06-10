@@ -28,9 +28,9 @@
 **Foco:** De férias da faculdade, meu foco agora é todo no francês e em novos projetos em linguagem C e nos meu foco estudantil.
 
 
-- [ ] **08/06 (Dia B):** Travail + Vocabuaire
-- [ ] **09/06 (Dia A):** Regarder le dessin anime 
-- [ ] **10/06 (Dia B):** Travail + Cours de Français
+- [x] **08/06 (Dia B):** Travail + Vocabuaire
+- [x] **09/06 (Dia A):** Regarder le dessin anime 
+- [x] **10/06 (Dia B):** Travail + Cours de Français
 - [ ] **11/06 (Dia A):** Vocabulaire - Des sons en français
 - [ ] **12/06 (Dia B):** Travail + Cours de Français
 - [ ] **13/06 (DIA A):** Projet en langage C
