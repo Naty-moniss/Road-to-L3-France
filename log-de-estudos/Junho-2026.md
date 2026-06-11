@@ -31,7 +31,7 @@
 - [x] **08/06 (Dia B):** Travail + Vocabuaire
 - [x] **09/06 (Dia A):** Regarder le dessin anime 
 - [x] **10/06 (Dia B):** Travail + Cours de Français
-- [ ] **11/06 (Dia A):** Vocabulaire - Des sons en français
+- [x] **11/06 (Dia A):** Vocabulaire - Des sons en français
 - [ ] **12/06 (Dia B):** Travail + Cours de Français
 - [ ] **13/06 (DIA A):** Projet en langage C
 - [ ] **14/06 (DIA B):** Regarder le dessin anime
