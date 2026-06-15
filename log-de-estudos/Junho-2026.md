@@ -34,6 +34,20 @@
 - [x] **11/06 (Dia A):** Vocabulaire - Des sons en français
 - [x] **12/06 (Dia B):** Travail + Cours de Français
 - [x] **13/06 (DIA A):** Projet en langage C
-- [ ] **14/06 (DIA B):** Regarder le dessin anime
+- [x] **14/06 (DIA B):** Regarder le dessin anime
+
+
+## 📅 Semaine 03 (15/06 - 21/06)
+**Foco:** De férias da faculdade, meu foco agora é todo no francês e em novos projetos em linguagem C e nos meu foco estudantil.
+
+
+- [x] **15/06 (Dia A):** Regarder le dessin anime - Vocabulaire
+- [ ] **16/06 (Dia B):** Travail + Revoir le passé en français
+- [ ] **17/06 (Dia A):** Cours de Fraçais + Vocabulaire
+- [ ] **18/06 (Dia B):** Travail + Vocabulaire
+- [ ] **19/06 (Dia A):** Regarder le dessin anime
+- [ ] **20/06 (DIA B):** Travail - Écoutez une interview en français de Gilberto Gil.
+- [ ] **21/06 (DIA A):** Projet en langage C - Lettre de motivation
+
 
 
