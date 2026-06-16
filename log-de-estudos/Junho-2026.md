@@ -42,7 +42,7 @@
 
 
 - [x] **15/06 (Dia A):** Regarder le dessin anime - Vocabulaire
-- [ ] **16/06 (Dia B):** Travail + Revoir le passé en français
+- [x] **16/06 (Dia B):** Travail + Revoir le passé en français
 - [ ] **17/06 (Dia A):** Cours de Fraçais + Vocabulaire
 - [ ] **18/06 (Dia B):** Travail + Vocabulaire
 - [ ] **19/06 (Dia A):** Regarder le dessin anime
