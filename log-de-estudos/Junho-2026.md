@@ -44,7 +44,7 @@
 - [x] **15/06 (Dia A):** Regarder le dessin anime - Vocabulaire
 - [x] **16/06 (Dia B):** Travail + Revoir le passé en français
 - [x] **17/06 (Dia A):** Cours de Fraçais + Vocabulaire
-- [ ] **18/06 (Dia B):** Travail + Vocabulaire
+- [x] **18/06 (Dia B):** Travail + Vocabulaire
 - [ ] **19/06 (Dia A):** Regarder le dessin anime
 - [ ] **20/06 (DIA B):** Travail - Écoutez une interview en français de Gilberto Gil.
 - [ ] **21/06 (DIA A):** Projet en langage C - Lettre de motivation
