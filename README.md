@@ -10,9 +10,9 @@
 
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
-| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/45) | Básico (A2 -> B1) |
+| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/49) | Básico (A2 -> B1) |
 | **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/100) | Cours terminés |
-| ** C** | ![Progress](https://geps.dev/progress/35) | Linguagem C |
+| ** C** | ![Progress](https://geps.dev/progress/45) | Linguagem C |
 
 ---
 
@@ -33,7 +33,7 @@
 ### 📅 Juin 2026
 
 - [ ] Concentrez-vous davantage sur mon expression orale en français.
-- [ ] Démarrer des projets en C
+- [X] Démarrer des projets en C
 - [ ] Travail dans des classes de français de niveau intermédiaire
 - [ ] Terminer le cours CS50 de Harvard
 
