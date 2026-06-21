@@ -47,7 +47,21 @@
 - [x] **18/06 (Dia B):** Travail + Vocabulaire
 - [x] **19/06 (Dia A):** Regarder le dessin anime
 - [x] **20/06 (DIA B):** Travail - Écoutez une interview en français de Gilberto Gil.
-- [ ] **21/06 (DIA A):** Projet en langage C - Lettre de motivation
+- [x] **21/06 (DIA A):** Projet en langage C - Lettre de motivation
+      
+
+## 📅 Semaine 04  (22/06 - 28/06)
+**Foco:** De férias da faculdade, meu foco agora é todo no francês e em novos projetos em linguagem C e nos meu foco estudantil.
+
+
+- [ ] **22/06 (Dia B):** Travail + Regarder le dessin anime
+- [ ] **23/06 (Dia A):** Vocabulaire + Cours de Français
+- [ ] **23/06 (Dia B):** Travail + Revoir Les numeros en français
+- [ ] **24/06 (Dia A):** Ptojet en langage C - Lettre motivation
+- [ ] **26/06 (Dia B):** Travail + Regarder le dessin anime
+- [ ] **27/06 (DIA A):** Cours de français
+- [ ] **28/06 (DIA B):** Travail + Vocabulaire
+
 
 
 
