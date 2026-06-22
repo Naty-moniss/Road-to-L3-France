@@ -54,7 +54,7 @@
 **Foco:** De férias da faculdade, meu foco agora é todo no francês e em novos projetos em linguagem C e nos meu foco estudantil.
 
 
-- [ ] **22/06 (Dia B):** Travail + Regarder le dessin anime
+- [x] **22/06 (Dia B):** Travail + Regarder le dessin anime
 - [ ] **23/06 (Dia A):** Vocabulaire + Cours de Français
 - [ ] **23/06 (Dia B):** Travail + Revoir Les numeros en français
 - [ ] **24/06 (Dia A):** Ptojet en langage C - Lettre motivation
