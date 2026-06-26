@@ -58,7 +58,7 @@
 - [x] **23/06 (Dia A):** Vocabulaire + Cours de Français
 - [x] **24/06 (Dia B):** Travail + Revoir Les numeros en français
 - [x] **25/06 (Dia A):** Ptojet en langage C - Lettre motivation
-- [ ] **26/06 (Dia B):** Travail + Regarder le dessin anime
+- [x] **26/06 (Dia B):** Travail + Regarder le dessin anime
 - [ ] **27/06 (DIA A):** Cours de français
 - [ ] **28/06 (DIA B):** Travail + Vocabulaire
 
