@@ -34,8 +34,8 @@
 
 - [ ] Concentrez-vous davantage sur mon expression orale en français.
 - [X] Démarrer des projets en C
-- [ ] Travail dans des classes de français de niveau intermédiaire
-- [ ] Terminer le cours CS50 de Harvard
+- [x] Travail dans des classes de français de niveau intermédiaire
+- [x] Terminer le cours CS50 de Harvard
 
 ---
 
