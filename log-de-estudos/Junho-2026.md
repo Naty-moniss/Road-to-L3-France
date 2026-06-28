@@ -60,7 +60,12 @@
 - [x] **25/06 (Dia A):** Ptojet en langage C - Lettre motivation
 - [x] **26/06 (Dia B):** Travail + Regarder le dessin anime
 - [ ] **27/06 (DIA A):** Cours de français
-- [ ] **28/06 (DIA B):** Travail + Vocabulaire
+- [x] **28/06 (DIA B):** Travail + Vocabulaire
+- [ ] **29/06 (DIA A):** Cours de français
+- [ ] **30/06 (DIA B):** Travail + Vocabulaire
+
+
+
 
 
 
