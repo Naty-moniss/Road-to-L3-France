@@ -41,8 +41,6 @@
 
 ## 📈 Atividade Global de Estudos
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naty-moniss&layout=compact)
 
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Le%20succès%20est%20la%20somme%20de%20petits%20efforts%2C%20répétés%20jour%20après%20jour." alt="Quote" />
-</div>
