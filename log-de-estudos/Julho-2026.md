@@ -15,7 +15,7 @@
 **Foco:** Treinar o máximo de falas em francês.
 
 
-- [ ] **02/07 (Dia B):** Travail + Regarder une série française
+- [x] **02/07 (Dia B):** Travail + Regarder une série française
 - [ ] **03/07 (Dia A):** Traduisez les plans de mes cours.
 - [ ] **04/07 (Dia B):** Travail + Lire un chapitre de livre
 - [ ] **05/07 (Dia A):** Cours de français - Vocabulaire
