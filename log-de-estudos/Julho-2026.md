@@ -20,7 +20,7 @@
 - [x] **04/07 (Dia B):** Travail + Lire un chapitre de livre
 - [x] **05/07 (Dia A):** Cours de français - Vocabulaire
 - [x] **06/07 (Dia B):** Travail +  Regarder une série française
-- [ ] **07/07 (DIA A):** Vocabulaire - Traduisez les plans de mes cours.
+- [x] **07/07 (DIA A):** Vocabulaire - Traduisez les plans de mes cours.
 - [ ] **08/07 (DIA B):**  Travail + Lire un chapitre de livre
 
 
