@@ -24,3 +24,16 @@
 - [ ] **08/07 (DIA B):**  Travail + Lire un chapitre de livre
 
 
+
+## 📅 Semaine 02 (09/06 - 15/06)
+**Foco:** Treinar o máximo de falas em francês.
+
+
+- [x] **09/07 (Dia A):** Regarder une série française
+- [ ] **10/07 (Dia B):** Travail + Vocabulaire
+- [ ] **11/07 (Dia A):** Traduisez les plans de mes cours.
+- [ ] **12/07 (Dia B):** Travail +  Regarder une série française
+- [ ] **13/07 (Dia A):** Cours de Français 
+- [ ] **14/07 (DIA B):** Traduisez les plans de mes cours
+- [ ] **15/07 (DIA A):** Travail +  Vocabulaire
+
