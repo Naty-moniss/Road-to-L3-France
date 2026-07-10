@@ -30,7 +30,7 @@
 
 
 - [x] **09/07 (Dia A):** Regarder une série française
-- [ ] **10/07 (Dia B):** Travail + Vocabulaire
+- [x] **10/07 (Dia B):** Travail + Vocabulaire
 - [ ] **11/07 (Dia A):** Traduisez les plans de mes cours.
 - [ ] **12/07 (Dia B):** Travail +  Regarder une série française
 - [ ] **13/07 (Dia A):** Cours de Français 
