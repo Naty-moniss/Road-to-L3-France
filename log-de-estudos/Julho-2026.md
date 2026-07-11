@@ -11,7 +11,7 @@
 
 
 
-## 📅 Semaine 01 (02/06 - 08/06)
+## 📅 Semaine 01 (02/07 - 08/07)
 **Foco:** Treinar o máximo de falas em francês.
 
 
@@ -25,13 +25,13 @@
 
 
 
-## 📅 Semaine 02 (09/06 - 15/06)
+## 📅 Semaine 02 (09/07 - 15/07)
 **Foco:** Treinar o máximo de falas em francês.
 
 
 - [x] **09/07 (Dia A):** Regarder une série française
 - [x] **10/07 (Dia B):** Travail + Vocabulaire
-- [ ] **11/07 (Dia A):** Traduisez les plans de mes cours.
+- [x] **11/07 (Dia A):** Traduisez les plans de mes cours.
 - [ ] **12/07 (Dia B):** Travail +  Regarder une série française
 - [ ] **13/07 (Dia A):** Cours de Français 
 - [ ] **14/07 (DIA B):** Traduisez les plans de mes cours
