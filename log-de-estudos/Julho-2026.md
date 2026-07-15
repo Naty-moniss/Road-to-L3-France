@@ -35,5 +35,20 @@
 - [x] **12/07 (Dia B):** Travail +  Regarder une série française
 - [ ] **13/07 (Dia A):** Cours de Français 
 - [x] **14/07 (DIA B):** Trvail + Traduisez les plans de mes cours
-- [ ] **15/07 (DIA A):** Cours de Français - Vocabulaire
+- [x] **15/07 (DIA A):** Cours de Français - Vocabulaire
+
+
+## 📅 Semaine 03 (16/07 - 23/07)
+**Foco:** Treinar o máximo de falas em francês.
+
+
+- [ ] **16/07 (Dia B):** Travail + Devoir + Vocabulaire
+- [ ] **17/07 (Dia A):** Traduisez les plans de mes cours.
+- [ ] **18/07 (Dia B):** Traduisez les plans de mes cours + Parler français
+- [ ] **19/07 (Dia A):** Cours de Français - Vocabulaire
+- [ ] **20/07 (Dia B):** Travail + Regarder une série en Français
+- [ ] **21/07 (DIA A):** Traduisez les plans de mes cours + Parler français
+- [ ] **22/07 (DIA B):** Travail + Vocabulaire
+- [ ] **23/07 (DIA A):**  Parler français + Vocabulaire
+
 
