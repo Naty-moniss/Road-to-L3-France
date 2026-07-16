@@ -42,7 +42,7 @@
 **Foco:** Treinar o máximo de falas em francês.
 
 
-- [ ] **16/07 (Dia B):** Travail + Devoir + Vocabulaire
+- [x] **16/07 (Dia B):** Travail + Devoir + Vocabulaire
 - [ ] **17/07 (Dia A):** Traduisez les plans de mes cours.
 - [ ] **18/07 (Dia B):** Traduisez les plans de mes cours + Parler français
 - [ ] **19/07 (Dia A):** Cours de Français - Vocabulaire
