@@ -45,7 +45,7 @@
 - [x] **16/07 (Dia B):** Travail + Devoir + Vocabulaire
 - [x] **17/07 (Dia A):** Traduisez les plans de mes cours.
 - [x] **18/07 (Dia B):** Traduisez les plans de mes cours + Parler français
-- [ ] **19/07 (Dia A):** Cours de Français - Vocabulaire
+- [x] **19/07 (Dia A):** Cours de Français - Vocabulaire
 - [ ] **20/07 (Dia B):** Travail + Regarder une série en Français
 - [ ] **21/07 (DIA A):** Traduisez les plans de mes cours + Parler français
 - [ ] **22/07 (DIA B):** Travail + Vocabulaire
