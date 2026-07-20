@@ -34,8 +34,8 @@
 
 - [ ] Concentrez-vous davantage sur mon expression orale en français.
 - [ ] Términer la traduction des syllabus
-- [ ] Travail dans des classes de français de niveau intermédiaire
-- [ ] Travailler sur les projets du course CS50
+- [x] Travail dans des classes de français de niveau intermédiaire
+- [x] Travailler sur les projets du course CS50
 
 ---
 
