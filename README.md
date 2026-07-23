@@ -32,7 +32,7 @@
 
 ### 📅 Juilet 2026
 
-- [ ] Concentrez-vous davantage sur mon expression orale en français.
+- [x] Concentrez-vous davantage sur mon expression orale en français.
 - [ ] Términer la traduction des syllabus
 - [x] Travail dans des classes de français de niveau intermédiaire
 - [x] Travailler sur les projets du course CS50
