@@ -51,4 +51,18 @@
 - [X] **22/07 (DIA B):** Travail + Vocabulaire
 - [ ] **23/07 (DIA A):**  Parler français + Vocabulaire
 
+  
+    ## 📅 Semaine 03 (24/07 - 31/07)
+**Foco:** Treinar o máximo de falas em francês.
+
+
+- [x] **24/07 (Dia B):** Travail + Vocabulaire 
+- [ ] **25/07 (Dia A):** Traduisez les plans de mes cours.
+- [ ] **26/07 (Dia B):** Traduisez les plans de mes cours + Parler français
+- [ ] **27/07 (Dia A):** Cours de Français - Regarder une série en Français
+- [ ] **28/07 (Dia B):** Travail + Vocabulaire
+- [ ] **29/07 (DIA A):** Traduisez les plans de mes cours 
+- [ ] **30/07 (DIA B):** Travail + Vocabulaire
+- [ ] **31/07 (DIA A):**  Traduisez les plans de mes cours 
+
 
